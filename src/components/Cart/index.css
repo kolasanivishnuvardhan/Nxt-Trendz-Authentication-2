@@ -1,0 +1,17 @@
+.products-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.products-img {
+  width: 20%;
+  margin-top: 40px;
+}
+
+.products {
+  font-family: 'Roboto';
+  font-size: 32px;
+  color: #1e293b;
+}
